@@ -1,0 +1,5 @@
+pip install keras 
+pip install pickle
+pip install nltk
+pip install flask
+pip install tensorflow 

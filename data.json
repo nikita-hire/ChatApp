@@ -1,0 +1,93 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hii","Hey","hi", "Hello"],
+         "responses": ["Hello", "Heyy","Hiee","Hii"],
+         "context": [""]
+        },
+        {"tag": "a",
+         "patterns": ["Kasa Aahes?","Kashi Aahes?"],
+         "responses": ["Mi thik ahe", "chan ahe","majet ahe"],
+         "context": [""]
+        },
+        {"tag": "b",
+         "patterns": ["ho","ha"],
+         "responses": ["ho chalel", "ho","हो"],
+         "context": [""]
+        },
+        {"tag": "c",
+         "patterns": ["nahi","नाही","nakko"],
+         "responses": ["nakko", "नाही","नको"],
+         "context": [""]
+        },
+        {"tag": "d",
+         "patterns": ["nahi","नाही","nakko"],
+         "responses": ["nakko", "नाही","नको"],
+         "context": [""]
+        },
+        {"tag": "e",
+         "patterns": ["tu kuthe janar ahes"],
+         "responses": ["ghari", "नाही  kaa "],
+         "context": [""]
+        },
+        {"tag": "f",
+         "patterns": ["tu kay krtoy"],
+         "responses": ["kahi nahi", "नाही"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you!", "Byeee", "Bye!!"],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context": [""]
+        },
+        {"tag": "greet",
+         "patterns": ["nice to meet you","it was nice meeting you","good to know each other","pleased to meet you","glad to meet you"],
+         "responses": ["I think this is the beginning of a beautiful friendship", "I'm looking forward to working with you", "likewise. I look forward to getting to know you better"],
+         "context": [""]
+        },
+        {"tag": "beautiful",
+         "patterns": ["you are cute", "you are pretty", "you look cool", "you're so gorgeous", "you are so handsome"],
+         "responses": ["Thank you!","Thanks", "Thanks for the compliement"],
+         "context": [""]
+        },
+        {"tag": "emotions",
+         "patterns": [ "I am sorry"],
+         "responses": ["It's ok"],
+         "context": [""]
+        },
+        {"tag": "laugh",
+         "patterns": ["hahaha", "hehehe", "lol" ],
+         "responses": ["hahaha","lmao"],
+         "context": [""]
+        },
+        {"tag": "ok",
+         "patterns": ["ok", "yes", "yup"],
+         "responses": ["Yess", "Okay","kk"],
+         "context": [""]
+        },
+        {"tag": "morning",
+         "patterns": ["good morning","have a nice morning","gm"],
+         "responses": ["morning","gm"],
+         "context": [""]
+        },
+        {"tag": "sure",
+         "patterns": ["are you sure"],
+         "responses": ["sure"],
+         "context": []
+        },
+        {"tag": "ask",
+         "patterns": ["How are you"],
+         "responses": ["I'm doing good and how about you?"],
+         "context": [""]
+        },
+        {"tag": "ask1",
+         "patterns": ["I am fine"],
+         "responses": ["good to hear that"],
+         "context": [""]
+        }
+   ]
+}
